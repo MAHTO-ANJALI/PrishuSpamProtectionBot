@@ -1,9 +1,9 @@
-# ✨ SpamProtectionRobot ✨
+# ✨ PrishuSpamProtectionBot ✨
 ### Anti Spam/NSFW Telegram Bot Written In Python With Pyrogram.
 
 
 [![Python](http://forthebadge.com/images/badges/made-with-python.svg)](https://python.org)&nbsp;
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/TheHamkerCat/)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/MAHTO-ANJALI/)
 
 
 <img src="https://hamker.me/logo_3.png" width="300" align="right">
@@ -17,7 +17,7 @@
 ## Install Locally Or On A VPS
 
 ```sh
-$ git clone https://github.com/thehamkercat/SpamProtectionRobot
+$ git clone https://github.com/MAHTO-ANJALI/PrishuSpamProtectionBot
 
 $ cd SpamProtectionRobot
 
@@ -34,7 +34,7 @@ $ python3 -m spr
 
 # Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/thehamkercat/SpamProtectionRobot/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MAHTO-ANJALI/PrishuSpamProtectionBot/)
 
 # Docker
 
